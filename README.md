@@ -18,3 +18,7 @@ Demonstration of Bayesian Knowledge Tracing
 ## Execute codes
 
 6. Contents are organized by blocks. On the top left of each block, there is a play button. Once clicked, the codes within the block will be executed. Blocks have to be executed sequentially and in order. Another short cut is CTRL-F9 (automate execution of code blocks)
+
+## Results
+
+7. Results will be exported to .csv files per student in the format of <student ID>.csv . If running on Google Colab, files will be stored in the "Files" tab on the left. "Refresh" button may be used to get the latest list of files. Output files will not be automatically saved to local machine for security reasons. Output files will also be earased when a Google Colab session terminates (if browser is closed or client machine hybernates)
